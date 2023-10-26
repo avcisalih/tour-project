@@ -12,5 +12,6 @@ Projeyi yerel makinenizde çalıştırmak için tarayıcınızın son sürümün
 
 ### Kurulum
 
-![proje gif](https://github.com/avcisalih/tour-project/assets/101407606/6fb68409-b5c8-4839-b6d6-0e327d7fa2bb)
 
+
+![projetur](https://github.com/avcisalih/tour-project/assets/101407606/f51ceff5-5758-440c-b883-941fb05aacc1)
